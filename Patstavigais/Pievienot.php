@@ -3,8 +3,8 @@
 <head>
 </head>
 <body>
-<h1 align="center">Pievienot inventāram<h1> 
-<p align="left"><a href="MainPage.php">Sākums  </a>  |  <a href="Inventars.php">Inventārs  </a>  |  <a href="Pievienot.php">Pievienot inventaram </a>  |  <a href="Rediget.php">Rediģēt inventāra datus</a>  |  <a href="Info.php">Informācija</a></p>
+<h2 align="center">Pievienot inventāram<h2> 
+<p align="left"><a href="MainPage.php">Sākums  </a>  |  <a href="Inventars.php">Inventārs  </a>  |  <a href="Pievienot.php">Pievienot inventaram </a>|  <a href="delete.php">Dzēst inventāra datus</a>  |  <a href="Rediget.php">Rediģēt inventāra datus</a>  |  <a href="Info.php">Informācija</a></p>
 <form action="" method= "post" >
 <h5 align="left"><break><break>
 <p>Nosaukums<input type ="text" name="sk1"></p>
